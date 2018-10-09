@@ -1,0 +1,11 @@
+[
+{"description": "This post will show you how to scrape the Python Nairobi blog using scrapy framework.", "category": "Web Scraping", "title": "Scraping The Python Nairobi Blog", "date": " \u00b7 September 17, 2017\n            "},
+{"description": "I discuss how to implement Scheme's basic pair data structure in Python for fun using Message Passing [Scheme is a Lisp dialect]", "category": "misc", "title": "Implementing Lisp pairs in Python 3.6.1", "date": " \u00b7 September 07, 2017\n            "},
+{"description": "In this tutorial you\u2019ll learn how to scrape websites with Selenium and ChromeDriver.", "category": "Relevant_Category", "title": "Introduction to Web Scraping using Selenium", "date": " \u00b7 September 05, 2017\n            "},
+{"description": "Create pythonic parametrized tests with pytest", "category": "unit testing", "title": "Python parametrized unit testing with Pytest", "date": " \u00b7 September 04, 2017\n            "},
+{"description": "What decorators are and how to use them for DRYer code", "category": "misc", "title": "Lessons in DRYness - Decorators in Python", "date": " \u00b7 August 30, 2017\n            "},
+{"description": "A summary of the presentation on pypy Joannah Nanjekye gave.", "category": "misc", "title": "Faster python programs with pypy by Joannah Nanjekye", "date": " \u00b7 March 06, 2017\n            "},
+{"description": "A brief demo of quicksort in python", "category": "misc", "title": "Quicksort in python", "date": " \u00b7 September 19, 2016\n            "},
+{"description": "Description of a python API I built to track vehicular movement on Access Kenya cameras", "category": "misc", "title": "Tracking Vehicles on Access Kenya Cameras", "date": " \u00b7 January 09, 2016\n            "},
+{"description": "A round up and links from the presentation Brian Suda gave about data vizualizations", "category": "misc", "title": "Data Vizualization by Brian Suda", "date": " \u00b7 December 16, 2014\n            "}
+]
